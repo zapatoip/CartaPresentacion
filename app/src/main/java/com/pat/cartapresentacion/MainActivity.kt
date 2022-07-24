@@ -118,7 +118,7 @@ private fun MostrarDatosPersonales() {
 }
 
 @Composable
-private fun CrearImagenPerfil(modifier: Modifier = Modifier) {
+private fun CrearImagenPerfil(modifier: Modifier = Modifier) { //comentario
     Surface(
         modifier = Modifier
             .size(150.dp)
