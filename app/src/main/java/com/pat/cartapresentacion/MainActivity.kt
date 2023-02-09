@@ -180,7 +180,7 @@ private fun CrearImagenPerfil(modifier: Modifier = Modifier) { //comentario
 }
 
 
-//@Preview(showBackground = true)
+@Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     CartaPresentacionTheme {
